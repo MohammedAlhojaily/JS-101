@@ -1,10 +1,6 @@
-let color = 'blue';
+let age = 25;
+const yearOfBirth = 1995;
 
-console.log(color);
-console.log(color);
-console.log(color);
-console.log(color);
-console.log(color);
-
-color = 'black';
-console.log(color);
+console.log(yearOfBirth);
+age = 26;
+console.log(age);
