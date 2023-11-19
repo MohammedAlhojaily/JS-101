@@ -1,2 +1,4 @@
-let colors = ['red', 'green', 'blue'];
-console.log(colors.includes('black'));
+const colors = ['red', 'green', 'blue'];
+colors.unshift('black');
+colors.unshift('white');
+console.log(colors);
