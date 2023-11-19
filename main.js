@@ -1,2 +1,2 @@
-let value = null;
-console.log(value);
+let language = 'JavaScript';
+console.log(language.length);
