@@ -1,2 +1,4 @@
-let language = 'JavaScript';
-console.log(language[4]);
+let color = 'red';
+let colors = ['red', 'green', 'blue'];
+
+console.log(colors[0]);
