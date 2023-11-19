@@ -1,12 +1,17 @@
-function priintNumbers(to){
- for(let i = 1; i<=to; i++){
+function printNumbers(to){
+    if(to > 10){
+        return;
+    }
+
+
+for(let i = 1; i <= to; i++){
     console.log(i);
- }
- return;
 }
-function add(firstNumber, secondNumber){
-    let result = firstNumber + secondNumber;
-    return result;
+return;
 }
 
-priintNumbers(5);
+function add(firstNumber, secondNumber){
+    return firstNumber + secondNumber;
+}
+
+printNumbers(5);
