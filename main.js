@@ -1,3 +1,4 @@
-let message = 'Welcome to JavaScript';
-console.log(typeof message);
+let language = 'C++';
+let message = `Welcome
+to ${language}`;
 console.log(message);
