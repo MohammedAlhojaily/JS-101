@@ -1,8 +1,8 @@
-function priintNumbers(){
-    console.log(1);
-    console.log(2);
-    console.log(3);
+function priintNumbers(to){
+ for(let i = 1; i<=to; i++){
+    console.log(i);
+ }
 }
-priintNumbers();
-priintNumbers();
-priintNumbers();
+priintNumbers(2);
+priintNumbers(4);
+priintNumbers(3);
