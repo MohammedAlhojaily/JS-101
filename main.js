@@ -1,4 +1,3 @@
 const colors = ['red', 'green', 'blue'];
-const redColor = colors.shift();
+colors.push('black');
 console.log(colors);
-console.log(redColor);
