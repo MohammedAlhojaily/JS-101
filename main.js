@@ -8,5 +8,4 @@ function add(firstNumber, secondNumber){
     return result;
 }
 
-let value = add(2, 7) - add(2, 3);
-console.log(value);
+priintNumbers(add(2, 7));
