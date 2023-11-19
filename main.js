@@ -1,3 +1,4 @@
 const colors = ['red', 'green', 'blue'];
-colors.push('black');
+let blueColor = colors.pop();
+console.log(blueColor);
 console.log(colors);
