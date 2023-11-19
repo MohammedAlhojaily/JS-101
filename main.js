@@ -1,4 +1,4 @@
-const colors = ['red', 'green', 'blue'];
-let blueColor = colors.pop();
-console.log(blueColor);
-console.log(colors);
+let color = 'black';
+let colors = ['red', 'green', 'blue'];
+
+console.log(Array.isArray(colors));
