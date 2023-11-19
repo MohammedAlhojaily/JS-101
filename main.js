@@ -8,5 +8,5 @@ function add(firstNumber, secondNumber){
     return result;
 }
 
-let value = add(2, 7);
+let value = add(2, 7) - add(2, 3);
 console.log(value);
