@@ -1,3 +1,3 @@
-let result = 2 < 3;
-console.log(result);
-console.log(typeof result);
+let message = 'Welcome to JavaScript';
+console.log(typeof message);
+console.log(message);
