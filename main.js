@@ -1,6 +1,5 @@
-let age = 25;
-const yearOfBirth = 1995;
+let name = 'Nasser';
+let age =  30;
 
-console.log(yearOfBirth);
-age = 26;
-console.log(age);
+console.log(typeof name);
+console.log(typeof age);
