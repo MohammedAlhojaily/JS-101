@@ -1,4 +1,6 @@
 const colors = ['red', 'green', 'blue'];
-for(let color of colors){
-    console.log(color);
+let i = 0;
+while(i < colors.length){
+    console.log(colors[i]);
+    i++;
 }
