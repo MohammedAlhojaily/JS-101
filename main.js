@@ -1,4 +1,4 @@
 const colors = ['red', 'green', 'blue'];
-colors.unshift('black');
-colors.unshift('white');
+const redColor = colors.shift();
 console.log(colors);
+console.log(redColor);
