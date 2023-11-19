@@ -1,2 +1,2 @@
-let value =  -2.5;
-console.log(value);
+let value = 2;
+console.log(value * 'JavaScript');
