@@ -1,2 +1,2 @@
-let name;
-console.log(name);
+let value =  -2.5;
+console.log(value);
