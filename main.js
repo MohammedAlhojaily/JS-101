@@ -3,6 +3,9 @@ function priintNumbers(to){
     console.log(i);
  }
 }
-priintNumbers(2);
-priintNumbers(4);
-priintNumbers(3);
+function add(firstNumber, secondNumber){
+    console.log(firstNumber + secondNumber);
+}
+
+add(2, 7);
+add(5, 3);
