@@ -1,5 +1,5 @@
 const colors = ['red', 'green', 'blue'];
-let colorNumber = 2;
+let colorNumber = 25;
 
 switch(colorNumber){
     case 1:
@@ -10,4 +10,8 @@ switch(colorNumber){
         break;
     case 3:
          console.log(colors[2]);
+         break;
+    default:
+        console.log('white');
+        break;
 }
