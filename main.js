@@ -1,2 +1,2 @@
-let value = 2;
-console.log(value * 'JavaScript');
+let value = null;
+console.log(value);
