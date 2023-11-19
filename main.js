@@ -4,8 +4,9 @@ function priintNumbers(to){
  }
 }
 function add(firstNumber, secondNumber){
-    console.log(firstNumber + secondNumber);
+    let result = firstNumber + secondNumber;
+    return result;
 }
 
-add("Welcome to ", "JavaScript");
-add(5, 3);
+let value = add(2, 7);
+console.log(value);
