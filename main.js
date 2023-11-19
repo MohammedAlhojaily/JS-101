@@ -1,5 +1,3 @@
-let name = 'Nasser';
-let age =  30;
-
-console.log(typeof name);
-console.log(typeof age);
+let result = 2 < 3;
+console.log(result);
+console.log(typeof result);
