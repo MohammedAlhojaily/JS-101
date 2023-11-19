@@ -1,6 +1,3 @@
-const values = [
-    [1, 2, 3],
-    [4, 5, 6],
-    [7, 8, 9]
-];
-console.log(values[2][2]);
+let message = 'Welcome to JavaScript';
+let result = message.split(' ');
+console.log(result);
