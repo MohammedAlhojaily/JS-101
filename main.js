@@ -1,2 +1,2 @@
-let colors = ['red', 'green', 'blue', 'black'];
-console.log(colors.length);
+let colors = ['red', 'green', 'blue'];
+console.log(colors.includes('black'));
